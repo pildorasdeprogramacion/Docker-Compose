@@ -1,0 +1,20 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Entorno virtual
+venv/
+.env
+
+# Archivos de usuario de Visual Studio Code
+.vscode/
+
+# Otros archivos y directorios generados
+*.sqlite3
+*.pyc
+*.pyo
+.DS_Store
+node_modules/
